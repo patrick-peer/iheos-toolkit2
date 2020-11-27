@@ -140,6 +140,9 @@ hs_err_pid*
 #Eclipse Files
 .prefs
 .project
+.settings
+.classpath
+build
 /bin/
 /actorfactory/.settings
 *.90

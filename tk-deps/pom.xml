@@ -832,6 +832,10 @@
         </dependencyManagement>
 
         <distributionManagement>
+   		  <repository>
+			<id>nexus-thirdparty</id>
+			<url>http://javamaster.synedra.lan/nexus/content/repositories/thirdparty</url>
+		  </repository>
             <!--<repository>-->
                 <!--<id>deployment</id>-->
                 <!--<name>gazelle 3rd party</name>-->
